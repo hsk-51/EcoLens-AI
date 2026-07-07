@@ -1,0 +1,22 @@
+# EcoLens AI – Sustainability Audit Assistant
+# Python 3.10+ recommended
+
+# Core framework
+streamlit>=1.32.0,<2.0.0
+
+# Data & visualization
+pandas>=2.0.0,<3.0.0
+plotly>=5.18.0,<6.0.0
+numpy>=1.26.0,<2.1.0
+
+# AI integration (optional – app falls back to rule-based mock)
+openai>=1.12.0,<2.0.0
+
+# PDF report generation
+fpdf2>=2.7.8,<3.0.0
+
+# Configuration
+python-dotenv>=1.0.0,<2.0.0
+
+# Development & testing (optional)
+pytest>=8.0.0,<9.0.0
