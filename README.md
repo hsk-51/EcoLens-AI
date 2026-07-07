@@ -47,8 +47,7 @@ graph TD
     RGA --> MA[Memory Agent]
     MA --> CMA[Continuous Monitoring Agent]
 ```
-
-See [docs/AGENTIC_ARCHITECTURE.md](docs/AGENTIC_ARCHITECTURE.md) for detailed agent behavior.
+.
 
 ## Technology Stack
 
